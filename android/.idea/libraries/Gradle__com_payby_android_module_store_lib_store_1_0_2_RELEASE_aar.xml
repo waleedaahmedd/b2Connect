@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: com.payby.android.module.store:lib-store:1.0.2-RELEASE@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/fcc74a30c5ac93ffea92f31be3571d02/jetified-lib-store-1.0.2-RELEASE/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/037fba407e0994660bb1eebc7e3ed6d5/transformed/jetified-lib-store-1.0.2-RELEASE/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/037fba407e0994660bb1eebc7e3ed6d5/transformed/jetified-lib-store-1.0.2-RELEASE/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/037fba407e0994660bb1eebc7e3ed6d5/transformed/jetified-lib-store-1.0.2-RELEASE/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,99 @@
+{
+  "project_info": {
+    "project_number": "347957793324",
+    "firebase_url": "https://mobile-android-app-4ed94-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "mobile-android-app-4ed94",
+    "storage_bucket": "mobile-android-app-4ed94.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:347957793324:android:c08f11874c0894899f7789",
+        "android_client_info": {
+          "package_name": "com.bsquaredwifi.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "347957793324-o4tu4nmf83f7749iojust3jb1nm4tdbu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.bsquaredwifi.app",
+            "certificate_hash": "348c1b217f2d2de8b8407688364beebe11f3d227"
+          }
+        },
+        {
+          "client_id": "347957793324-r7dhvffusnajsg4c14ek3hdv7t4dcas3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.bsquaredwifi.app",
+            "certificate_hash": "a207a1edefbfe848ca2450d1911902a53563efb0"
+          }
+        },
+        {
+          "client_id": "347957793324-0cc3cik52bf9lvnqn0eukq4pktotk432.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXrmRoPkCFdygrN0ZtW0kbvonMTrfu62k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "347957793324-0cc3cik52bf9lvnqn0eukq4pktotk432.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "347957793324-6kgf8dgss7jvpi5apq5vhr07jbs5etju.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.bsquaredwifi.b2connect"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:347957793324:android:412f87677691ddec9f7789",
+        "android_client_info": {
+          "package_name": "com.bsquaredwifi.b2connect"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "347957793324-0cc3cik52bf9lvnqn0eukq4pktotk432.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXrmRoPkCFdygrN0ZtW0kbvonMTrfu62k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "347957793324-0cc3cik52bf9lvnqn0eukq4pktotk432.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "347957793324-6kgf8dgss7jvpi5apq5vhr07jbs5etju.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.bsquaredwifi.b2connect"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: com.payby.android.module.session:lib-session:1.0.0-RELEASE@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/e04ad578410fc7364be6bfcbebd0157d/jetified-lib-session-1.0.0-RELEASE/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/e6965cd7cadb2cd56ed97348f4c77ef7/transformed/jetified-lib-session-1.0.0-RELEASE/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/e6965cd7cadb2cd56ed97348f4c77ef7/transformed/jetified-lib-session-1.0.0-RELEASE/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/e6965cd7cadb2cd56ed97348f4c77ef7/transformed/jetified-lib-session-1.0.0-RELEASE/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

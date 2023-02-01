@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: com.payby.android.module.security:lib-security:1.0.0-RELEASE@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/92533a897e1d93a744b8318fe60efe58/jetified-lib-security-1.0.0-RELEASE/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/8206bece6927fdf75c8b1b160384781e/transformed/jetified-lib-security-1.0.0-RELEASE/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/8206bece6927fdf75c8b1b160384781e/transformed/jetified-lib-security-1.0.0-RELEASE/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/8206bece6927fdf75c8b1b160384781e/transformed/jetified-lib-security-1.0.0-RELEASE/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

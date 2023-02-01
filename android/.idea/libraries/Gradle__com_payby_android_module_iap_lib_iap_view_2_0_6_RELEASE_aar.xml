@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: com.payby.android.module.iap:lib-iap-view:2.0.6-RELEASE@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/f17a47119ff079124205d0474801d9db/transformed/jetified-lib-iap-view-2.0.6-RELEASE/jars/libs/r-classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/f17a47119ff079124205d0474801d9db/transformed/jetified-lib-iap-view-2.0.6-RELEASE/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/f17a47119ff079124205d0474801d9db/transformed/jetified-lib-iap-view-2.0.6-RELEASE/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/f17a47119ff079124205d0474801d9db/transformed/jetified-lib-iap-view-2.0.6-RELEASE/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: com.payby.android.module.unbreakable:lib-unbreakable:1.0.6-RELEASE@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/f5d41b27cbd2a46472d487a673fd3184/jetified-lib-unbreakable-1.0.6-RELEASE/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/ddd84ce471048e5cfefd15726b29b2c2/transformed/jetified-lib-unbreakable-1.0.6-RELEASE/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/ddd84ce471048e5cfefd15726b29b2c2/transformed/jetified-lib-unbreakable-1.0.6-RELEASE/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/ddd84ce471048e5cfefd15726b29b2c2/transformed/jetified-lib-unbreakable-1.0.6-RELEASE/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

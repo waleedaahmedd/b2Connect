@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: com.payby.android.module.evbus:lib-evbus:1.0.0-RELEASE@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/45fd3fc03e5fe08e7e79bd65a86f83cd/jetified-lib-evbus-1.0.0-RELEASE/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/b109e93ea7e72b47a8b8f83845e29c7a/transformed/jetified-lib-evbus-1.0.0-RELEASE/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/b109e93ea7e72b47a8b8f83845e29c7a/transformed/jetified-lib-evbus-1.0.0-RELEASE/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/b109e93ea7e72b47a8b8f83845e29c7a/transformed/jetified-lib-evbus-1.0.0-RELEASE/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

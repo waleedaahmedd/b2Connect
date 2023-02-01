@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: com.zoho.salesiq:mobilisten:4.2.9@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/37e834c348a7e2fd7ef4b88d2771da9e/transformed/jetified-mobilisten-4.2.9/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/37e834c348a7e2fd7ef4b88d2771da9e/transformed/jetified-mobilisten-4.2.9/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/37e834c348a7e2fd7ef4b88d2771da9e/transformed/jetified-mobilisten-4.2.9/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.zoho.salesiq/mobilisten/4.2.9/4d9e82e3a9975bed3c9c8ead89d5e4741a033692/mobilisten-4.2.9-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: com.payby.android.module.modeling:lib-modeling:2.0.2-RELEASE@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/039d1f022c40492694d5b6adde0a6096/jetified-lib-modeling-2.0.2-RELEASE/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/3460ffac63f3270a506fc453e763e585/transformed/jetified-lib-modeling-2.0.2-RELEASE/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/3460ffac63f3270a506fc453e763e585/transformed/jetified-lib-modeling-2.0.2-RELEASE/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/3460ffac63f3270a506fc453e763e585/transformed/jetified-lib-modeling-2.0.2-RELEASE/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

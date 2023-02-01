@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>347957793324-6kgf8dgss7jvpi5apq5vhr07jbs5etju.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.347957793324-6kgf8dgss7jvpi5apq5vhr07jbs5etju</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>347957793324-o4tu4nmf83f7749iojust3jb1nm4tdbu.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDXvcaIQMk8AO8F6ZTHqx7t1ofwHNQS0z0</string>
+	<key>GCM_SENDER_ID</key>
+	<string>347957793324</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.bsquaredwifi.b2connect</string>
+	<key>PROJECT_ID</key>
+	<string>mobile-android-app-4ed94</string>
+	<key>STORAGE_BUCKET</key>
+	<string>mobile-android-app-4ed94.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:347957793324:ios:765c72718361a1199f7789</string>
+	<key>DATABASE_URL</key>
+	<string>https://mobile-android-app-4ed94-default-rtdb.asia-southeast1.firebasedatabase.app</string>
+</dict>
+</plist>
